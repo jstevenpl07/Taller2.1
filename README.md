@@ -14,3 +14,9 @@ Este proyecto muestra sobre el uso de las variables, para mostrar comandos, decl
 - **John Steven Pinzón.**
 - **Sebastían Martín**
 
+## **Enlaces utilizados**
+- [Video java #1 Introducción](https://www.youtube.com/watch?v=Ztr7_sNmSQI&t=2s).
+- [Video java #2 ¿Qué es un algoritmo?](https://www.youtube.com/watch?v=9ko3JV9pjbs).
+- [Video java #3 Condicionales](https://www.youtube.com/watch?v=6lk0cRlqnTU&t=1s).
+- [Video java #4 Condicionales anidados](https://www.youtube.com/watch?v=ZbuI6P1yLc8).
+- [Link de los videos de java](https://xacarana.com/java.html).
