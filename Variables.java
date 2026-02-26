@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.util.Scanner;
 
-class HolaMundo {
+class Variables {
     public static void main(String[] args){
         int edad = 23;
 
@@ -69,4 +69,5 @@ class HolaMundo {
 
         
     }
+
 }
